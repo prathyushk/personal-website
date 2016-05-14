@@ -1,0 +1,16 @@
+h1 {
+    color:aqua;
+}
+
+p {
+    color: yellow;
+}
+
+a{
+    color: red;
+}
+
+body {
+    background-color: pink;
+    font-family: 'Open Sans', sans-serif;
+}

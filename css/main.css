@@ -1,0 +1,23 @@
+.jumbotron {
+    text-align: center;
+    background-color: deepskyblue;
+    color: white;
+}
+
+.jumbotron .btn {
+    color: white;
+    border-color: white;
+}
+
+.projects h1 {
+    text-align: center;
+    color: deepskyblue;
+}
+
+.projects {
+    color: deepskyblue;
+}
+
+.projects .row {
+    text-align: center;
+}
